@@ -1,0 +1,8 @@
+D:\Simplilearn\Main Projects\Project 3\StudentdataSearchSort\StudentdataSearchSort\bin\Debug\StudentdataSearchSort.exe.config
+D:\Simplilearn\Main Projects\Project 3\StudentdataSearchSort\StudentdataSearchSort\bin\Debug\StudentdataSearchSort.exe
+D:\Simplilearn\Main Projects\Project 3\StudentdataSearchSort\StudentdataSearchSort\bin\Debug\StudentdataSearchSort.pdb
+D:\Simplilearn\Main Projects\Project 3\StudentdataSearchSort\StudentdataSearchSort\obj\Debug\StudentdataSearchSort.csproj.AssemblyReference.cache
+D:\Simplilearn\Main Projects\Project 3\StudentdataSearchSort\StudentdataSearchSort\obj\Debug\StudentdataSearchSort.csproj.SuggestedBindingRedirects.cache
+D:\Simplilearn\Main Projects\Project 3\StudentdataSearchSort\StudentdataSearchSort\obj\Debug\StudentdataSearchSort.csproj.CoreCompileInputs.cache
+D:\Simplilearn\Main Projects\Project 3\StudentdataSearchSort\StudentdataSearchSort\obj\Debug\StudentdataSearchSort.exe
+D:\Simplilearn\Main Projects\Project 3\StudentdataSearchSort\StudentdataSearchSort\obj\Debug\StudentdataSearchSort.pdb
